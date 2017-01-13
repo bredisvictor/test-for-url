@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body,html{
+    width: 100%;
+    height: 100%;
+    background: #E8E8E8;
+}
+.logoCover{
+    width: 100%;
+    position: relative;
+    height: 120px;
+    background: #fff;
+}
+
+header{
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+.mainLogo{
+    width: 1000px;
+    height: 120px;
+    margin: 0 auto;
+    position: relative;
+}
+.logoImage{
+    width: 220px;
+    height: 60px;
+    position: absolute;
+    bottom:20px;
+    left: 0;
+    background-image: url(img/logo.png);
+    background-size: cover;
+    background-position: center;
+}
+.mainHeader{
+    width: 100%;
+    height: 50px;
+    background: #0D4182;
+    color:#fff;
+    font-size: 25px;
+    text-align: center;
+    line-height: 50px;
+}
+.mainImage{
+    width: 100%;
+    height: 220px;
+    background-image: url(img/homepage_bg.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body{
+    width: 100%;
+    height: auto;
+}
+.insider{
+    width: 830px;
+    height: auto;
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding: 50px 0;
+ }
+.eventsSpan{
+    color:#505154;
+    font-size: 23px;
+    font-weight: 700;
+    
+}
+.eventsCover{
+    margin-top: 15px;
+    width: 100%;
+    height: auto;
+    padding: 0;
+}
+.event{
+    width: 203.75px;
+    height: 150px;
+    display: inline-block;
+    background: #fff;
+    position: relative;
+    margin-left: 3px;
+    box-sizing: border-box;
+    border: 1px solid rgba(136, 136, 136, 0.37);
+    cursor: pointer;
+    
+}
+.event:hover{
+    border-bottom: 3px solid #EC7317;
+}
+.event span{
+    position: absolute;
+}
+.eventName{
+    width: 100%;
+    bottom:0;
+    color:#505154;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    
+}
+
+.eventImage{
+    width: 80px;
+    height: 80px;
+    left: calc(50% - 40px);
+    top: calc(50% - 50px);
+}
+

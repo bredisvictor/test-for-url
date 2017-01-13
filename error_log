@@ -1,0 +1,7 @@
+[05-Jan-2017 12:56:30 UTC] PHP Fatal error:  Call to a member function getSports() on a non-object in /home/victorbar/public_html/bredis.org/se/dataClass.php on line 20
+[05-Jan-2017 13:32:09 UTC] PHP Fatal error:  Call to undefined function getTournaments() in /home/victorbar/public_html/bredis.org/se/dataClass.php on line 26
+[05-Jan-2017 13:34:02 UTC] PHP Fatal error:  Call to undefined function getTournaments() in /home/victorbar/public_html/bredis.org/se/dataClass.php on line 26
+[05-Jan-2017 14:08:54 UTC] PHP Fatal error:  Call to undefined method Data::getToutnaments() in /home/victorbar/public_html/bredis.org/se/controller.php on line 28
+[05-Jan-2017 14:10:53 UTC] PHP Fatal error:  Call to undefined method Data::getToutnaments() in /home/victorbar/public_html/bredis.org/se/controller.php on line 13
+[06-Jan-2017 09:22:26 UTC] PHP Fatal error:  Call to a member function SearchByTournament() on a non-object in /home/victorbar/public_html/bredis.org/se/dataClass.php on line 28
+[06-Jan-2017 09:22:55 UTC] PHP Fatal error:  Call to a member function SearchByTournament() on a non-object in /home/victorbar/public_html/bredis.org/se/dataClass.php on line 28
